@@ -1,6 +1,6 @@
 # GameCuaSimp
 
-A WebGL maze game built with Three.js and Box2dWeb. Play it here: http://wwwtyro.github.io/gamecuasimp/
+A WebGL maze game built with Three.js and Box2dWeb. Play it here: http://wwwtyro.github.io/astray/
 
 ### Launching
 
